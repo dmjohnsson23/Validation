@@ -4,8 +4,10 @@
 return [
     'COM.CU',
     'EDU.CU',
+    'GOB.CU',
     'GOV.CU',
     'INF.CU',
+    'NAT.CU',
     'NET.CU',
     'ORG.CU',
 ];
